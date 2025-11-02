@@ -1,0 +1,26 @@
+---
+title: "labs3"
+author: "Adelaide Cutler"
+format:
+  html:
+    toc: true
+    code-fold: true
+    theme: cerulean
+    embed-resources: true
+    backgroundcolor: "pink"
+execute:
+  echo: true
+  freeze: auto
+---
+
+# about me
+
+I am Adelaide.
+
+# image
+
+![Happy Halloween](images/pumpkin.jpg){fig-align="center"}
+
+# link to lab 7
+
+[lab 7](https://ood.unity.rc.umass.edu/rnode/toltec-cpu002.unity.rc.umass.edu/57832/files/forlab/Lab7AdelaideCutler.html)
